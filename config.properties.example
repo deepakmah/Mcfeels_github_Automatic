@@ -1,0 +1,20 @@
+# Automation Configuration Properties
+# Copy this file to config.properties and fill in your values
+basePath=C\:\\path\\to\\Automation\\Mcfeels
+browserTimeout=15
+pageLoadTimeout=30
+
+csvPath=C\:\\path\\to\\Mcfeels.csv
+
+imgbbApiKey=your_imgbb_api_key
+
+discountCode=your_discount_code
+
+email=your_email@example.com
+password=your_password
+
+validSearchTerms=staples,screws,hinges,handles,bolts,knobs,pulls,slides,cabinet,door
+invalidSearchTerms=pizza,car,apple,spaceship,unicorn
+
+useIncognito=true
+maxRetries=3

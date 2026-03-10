@@ -1,0 +1,6 @@
+target/
+reports/
+.idea/
+*.iml
+config.properties
+Mcfeels/config.properties
